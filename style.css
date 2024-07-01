@@ -115,11 +115,17 @@ body .alerta .wp-block-column{
 display:flex;
 justify-content:center;
 }
+body i{
+font-weight:900!important;
+font-family:"Font Awesome 6 Free"!important;
+}
+body .fa-up-right{
+font-size:13rem!important;
+margin:0 0 0 5rem!important;
+}
 body .fa-circle-exclamation{
 color:#cb1d21!important;
 font-size:40rem!important;
-font-weight:900!important;
-font-family:"Font Awesome 6 Free"!important;
 }
 body a.btn{
 width:80%;

@@ -108,14 +108,15 @@ body .alerta.wp-block-columns{
 gap:15rem!important;
 padding:15rem!important;
 margin:25rem 0!important;
-border:1rem solid#ff4136!important;
+background:#fde9e9!important;
+border:1rem solid#cb1d21!important;
 }
 body .alerta .wp-block-column{
 display:flex;
 justify-content:center;
 }
 body .fa-circle-exclamation{
-color:#ff4136!important;
+color:#cb1d21!important;
 font-size:40rem!important;
 font-weight:900!important;
 font-family:"Font Awesome 6 Free"!important;
@@ -128,7 +129,7 @@ align-items:center;
 margin:auto!important;
 justify-content:center;
 color:#ffffff!important;
-background:#5e17eb!important;
+background:#315ad5!important;
 padding:15rem 25rem!important;
 }
 body .wp-block-gallery figure{
@@ -220,7 +221,7 @@ color:#ffffff!important;
 font-size:20rem!important;
 padding:15rem 0!important;
 border-radius:5rem 5rem 0 0;
-background:#5e17eb!important;
+background:#315ad5!important;
 }
 .page-id-723 .actividades{
 flex:1;
@@ -279,12 +280,15 @@ margin:0 0 30rem 0!important;
 }
 .woocommerce-shop .wp-block-columns{
 padding:15rem!important;
-background:#eeffea!important;
+background:#dff7ed!important;
 margin:0 0 40rem 0!important;
-border:1rem solid#70f17a!important;
+border:1rem solid#41a06c!important;
 }
 .woocommerce-shop .wp-block-column p{
 text-align:center;
+}
+.woocommerce-shop a.btn{
+background:#41a06c!important;
 }
 /*BBB Shop*/
 /*BBB General*/

@@ -152,6 +152,10 @@ text-align:center;
 body time{
 font-size:14rem!important;
 }
+body figcaption{
+font-size:14rem!important;
+margin:15rem 0 0 0!important;
+}
 /*Body*/
 /*Sidebar*/
 .sidebar{
@@ -196,29 +200,29 @@ margin:0 0 18rem 0!important;
 background:#25d366!important;
 }
 /*Inicio*/
-/*Página 106*/
-.page-id-106 p{
+/*Página 723*/
+.page-id-723 p{
 margin:0 0 33rem 0!important;
 }
-.page-id-106 .wp-block-columns{
+.page-id-723 .wp-block-columns{
 margin:0!important;
 padding:0!important;
 border:none!important;
 background:transparent!important;
 }
-.page-id-106 .wp-block-column{
+.page-id-723 .wp-block-column{
 display:flex;
 flex-direction:column;
 margin:0 15rem 30rem 15rem!important;
 }
-.page-id-106 .wp-block-column h2{
+.page-id-723 .wp-block-column h2{
 color:#ffffff!important;
 font-size:20rem!important;
 padding:15rem 0!important;
 border-radius:5rem 5rem 0 0;
 background:#5e17eb!important;
 }
-.page-id-106 .actividades{
+.page-id-723 .actividades{
 flex:1;
 padding:15rem!important;
 border-style:solid!important;
@@ -227,13 +231,13 @@ border-color:#ced0d4!important;
 border-radius:0 0 5rem 5rem!important;
 border-width:0 1rem 1rem 1rem!important;
 }
-.page-id-106 .wp-block-column p{
+.page-id-723 .wp-block-column p{
 margin:0 0 10rem 0!important;
 }
-.page-id-106 .wp-block-column a{
+.page-id-723 .wp-block-column a{
 font-weight:300!important;
 }
-/*Página 106*/
+/*Página 723*/
 /*Comunicados*/
 .blog .post-thumbnail img{
 width:60%;
@@ -266,7 +270,7 @@ margin:0 0 30rem 0!important;
 }
 .single-post .wp-block-image{
 width:60%;
-margin:0 auto 30rem auto!important;
+margin:0 auto 25rem auto!important;
 }
 /*Comunicado*/
 /*BBB Shop*/
@@ -394,11 +398,11 @@ width:100%;
 margin:35rem auto 25rem auto!important;
 }
 /*Inicio*/
-/*Página 106*/
-.page-id-106 .actividades{
+/*Página 723*/
+.page-id-723 .actividades{
 padding:20rem 15rem 0 15rem!important;
 }
-/*Página 106*/
+/*Página 723*/
 /*Comunicados*/
 .blog .post-thumbnail img{
 width:80%;
@@ -440,11 +444,11 @@ margin:0 0 21rem 0!important;
 text-align:center!important;
 }
 /*Inicio*/
-/*Página 106*/
-.page-id-106 .wp-block-column{
+/*Página 723*/
+.page-id-723 .wp-block-column{
 margin:0 0 30rem 0!important;
 }
-/*Página 106*/
+/*Página 723*/
 /*Comunicados*/
 .blog .post-thumbnail img{
 width:100%;

@@ -69,9 +69,8 @@ list-style-type:none;
 margin:-5rem 0 20rem 0!important;
 }
 ol li{
-line-height:1.5!important;
 text-wrap:pretty!important;
-margin:0 0 5rem 10rem!important;
+margin:0 0 10rem 10rem!important;
 }
 ol li:before{
 content:"\2022";
@@ -116,6 +115,7 @@ display:flex;
 justify-content:center;
 }
 body i{
+vertical-align:middle;
 font-weight:900!important;
 font-family:"Font Awesome 6 Free"!important;
 }

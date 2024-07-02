@@ -173,7 +173,7 @@ padding:20rem!important;
 position:fixed!important;
 background:#ffffff!important;
 }
-/*.sidebar .site-branding{/*REV*/
+/*.sidebar .site-branding{
 width:80%;
 margin:17rem auto auto auto!important;
 }*/
@@ -379,7 +379,8 @@ display:none!important;
 /*None*/
 @media screen and (max-width: 980px){
 /*Body*/
-body .site-content{/*REV*/
+body .site-content{
+width:80%;
 margin:0!important;
 }
 body .content-area{
@@ -393,7 +394,6 @@ position:relative!important;
 box-shadow:0 0 5rem 2rem rgb(0 0 0 / 2%)!important;
 }
 .sidebar .site-branding{
-width:100%;
 margin:0!important;
 }
 .sidebar ul{

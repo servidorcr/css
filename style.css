@@ -380,7 +380,7 @@ display:none!important;
 @media screen and (max-width: 980px){
 /*Body*/
 body .site-content{
-width:80%;
+width:100%;
 margin:0!important;
 }
 body .content-area{
@@ -393,9 +393,9 @@ width:100%;
 position:relative!important;
 box-shadow:0 0 5rem 2rem rgb(0 0 0 / 2%)!important;
 }
-.sidebar .site-branding{
+/*.sidebar .site-branding{
 margin:0!important;
-}
+}*/
 .sidebar ul{
 margin:0 0 -10rem 0!important;
 }

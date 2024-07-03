@@ -164,6 +164,13 @@ body figcaption{
 font-size:14rem!important;
 margin:15rem 0 0 0!important;
 }
+body a.custom-logo-link{
+display:flex;
+justify-content:center;
+}
+body .custom-logo{
+width:85rem!important;
+}
 /*Body*/
 /*Sidebar*/
 .sidebar{
@@ -173,10 +180,10 @@ padding:20rem!important;
 position:fixed!important;
 background:#ffffff!important;
 }
-.sidebar .site-branding{
+/*.sidebar .site-branding{
 width:50%;
 margin:auto!important;
-}
+}*/
 .sidebar ul{
 text-align:center;
 margin:30rem 0 -10rem 0!important;
@@ -386,6 +393,9 @@ margin:0!important;
 body .content-area{
 width:90%;
 }
+body a.custom-logo-link{
+justify-content:flex-start;
+}
 /*Body*/
 /*Sidebar*/
 .sidebar{
@@ -393,10 +403,10 @@ width:100%;
 position:relative!important;
 box-shadow:0 0 5rem 2rem rgb(0 0 0 / 2%)!important;
 }
-.sidebar .site-branding{
+/*.sidebar .site-branding{
 width:100%;
 margin:0!important;
-}
+}*/
 .sidebar ul{
 margin:0 0 -10rem 0!important;
 }

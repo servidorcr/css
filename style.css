@@ -182,10 +182,6 @@ padding:20rem!important;
 position:fixed!important;
 background:#ffffff!important;
 }
-/*.sidebar .site-branding{
-width:50%;
-margin:auto!important;
-}*/
 .sidebar ul{
 text-align:center;
 margin:30rem 0 -10rem 0!important;
@@ -405,10 +401,6 @@ width:100%;
 position:relative!important;
 box-shadow:0 0 5rem 2rem rgb(0 0 0 / 2%)!important;
 }
-/*.sidebar .site-branding{
-width:100%;
-margin:0!important;
-}*/
 .sidebar ul{
 margin:0 0 -10rem 0!important;
 }
@@ -461,6 +453,12 @@ margin:-5rem 0 23rem 0!important;
 /*BBB Perfil*/
 }
 @media screen and (max-width: 781px){
+/*Body*/
+body .custom-logo{
+width:100rem!important;
+max-width:none!important;
+}
+/*Body*/
 /*Inicio*/
 .home .wp-block-columns p{
 margin:0 0 21rem 0!important;

@@ -169,7 +169,9 @@ display:flex;
 justify-content:center;
 }
 body .custom-logo{
-width:85rem!important;
+height:auto!important;
+width:160rem!important;
+min-height:auto!important;
 }
 /*Body*/
 /*Sidebar*/

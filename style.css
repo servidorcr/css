@@ -7,7 +7,7 @@ border:none!important;
 hyphens:none!important;
 outline:none!important;
 line-height:1!important;
-color:#1a2833!important;
+color:#232323!important;
 font-size:17rem!important;
 box-shadow:none!important;
 font-weight:300!important;
@@ -152,7 +152,7 @@ body .wp-lightbox-overlay{
 background:#ffffff!important;
 }
 body svg{
-fill:#1a2833;
+fill:#232323;
 }
 body .entry-footer{
 text-align:center;
